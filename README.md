@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 Loves Python, writes in Javascript.
 
 [![Linkedin: MahammadNuriyev62](https://img.shields.io/badge/-MahammadNuriyev62-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/MahammadNuriyev62/)](https://www.linkedin.com/in/MahammadNuriyev62/)    ![ViewCount](https://komarev.com/ghpvc/?username=MahammadNuriyev62&color=1A4730)
